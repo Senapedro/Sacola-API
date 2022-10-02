@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8153451c-ba36-4fc9-bea5-4814f4749c6a" name="Changes" comment="" />
+    <list default="true" id="0dc5c5c0-dc8b-45c6-bb2d-78367ea5086f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/SacolaApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/configuration/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/enumeration/FormaPagamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/model/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/model/Endereco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/model/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/model/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/model/Restaurante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/model/Sacola.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/repository/ClienteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/repository/ItemRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/repository/ProdutoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/repository/RestauranteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/repository/SacolaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/resource/SacolaResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/resource/dto/ItemDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/service/SacolaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/java/me/dio/Sacola/service/impl/SacolaServiceimpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sacola-api/src/test/java/me/dio/Sacola/SacolaApiApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +42,7 @@
     <option name="done" value="true" />
   </component>
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/Sacola-api">
+    <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
@@ -51,8 +79,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectId" id="2Fb5iEe3moUIXE7il5MT5aRhUPn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2Fb7WMywQjTJzoqVKGb55fVEq8k" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,14 +87,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/pedro.pereira/Downloads/Sacola-api"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="SacolaApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.dio.Sacola.SacolaApiApplication" />
-      <module name="Sacola-api.Sacola-api.main" />
+      <module name="Sacola-api.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="me.dio.Sacola.*" />
@@ -87,11 +113,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8153451c-ba36-4fc9-bea5-4814f4749c6a" name="Changes" comment="" />
-      <created>1664748070088</created>
+      <changelist id="0dc5c5c0-dc8b-45c6-bb2d-78367ea5086f" name="Changes" comment="" />
+      <created>1664748963221</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664748070088</updated>
+      <updated>1664748963221</updated>
     </task>
     <servers />
   </component>
